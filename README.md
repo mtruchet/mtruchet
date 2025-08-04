@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1024" height="511" alt="unnamed" src="https://github.com/user-attachments/assets/4d176e13-b644-44e9-a3d9-64fcd744cf15" />
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy Mauricio Gaspar Truchet</h1>
 
 <p align="center">
